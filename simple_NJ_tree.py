@@ -1,3 +1,6 @@
+# Written for Assignment 2, Question 3a (phylogenetics) for
+# Semester 2, 2024 in Algorithms for Bioinformatics (COMP90014)
+# at the University of Melbourne
 """Setting up the environment:
 
 
@@ -36,7 +39,7 @@ import pickle
 from networkx.drawing.nx_pydot import graphviz_layout
 from collections import defaultdict
 
-matplotlib.use('TkAgg')  # or 'Qt5Agg', 'GtkAgg', depending on your environment
+matplotlib.use('TkAgg')
 
 
 """
