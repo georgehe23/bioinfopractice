@@ -1,4 +1,5 @@
-some code that I worked on I guess
+# Programming diary for various bioinformatics algorithms
+Author(s): George He
 
-currently have coded a:
-- simple neighbour joining algorithm to join protein sequences and represent them on a phylogenetic tree
+### Currently coded:
+1. Simple neighbour-joining algorithm to compare protein sequences and visualise them on a phylogenetic tree
