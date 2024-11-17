@@ -10,9 +10,9 @@ python3 -m venv custom_venv
 echo "Activating the virtual environment..."
 source custom_venv/bin/activate
 
-# # Install Tkinter for visualization
-# echo "Installing Tkinter..."
-# sudo apt-get install -y python3-tk
+# Install Tkinter for visualization
+echo "Installing Tkinter..."
+sudo apt-get install -y python3-tk
 
 # Install required Python modules from the requirements file
 echo "Installing required Python modules from requirements.txt..."
